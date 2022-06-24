@@ -9,6 +9,7 @@ package herencia2;
  *
  * @author reroes
  */
+// Kevin Bustamante
 public class Docente extends Persona{
     private double sueldo;
     
